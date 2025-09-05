@@ -1,7 +1,7 @@
 ---
     title: 'My First Blog'
     date: 2025-09-04T13:03:04-04:00
-    tags: ['robotics','programming']
+    tags: ['robotics','blog','bobrov']
     image: 'OrgoRoboShelf.webp'
 ---
 
@@ -101,3 +101,4 @@ I also designed the external frame for BOB ROV. I decided to use 4 tubes running
 
 I also spent significant time researching the geometry required to securley weld the flanges to the tube. One of the main requirements for this geometry was to prevent the washers and nuts for the seal interfering with the weld bead. To achieve the required clearence I had to implement a larger bolt circle. In order to maintain the seal on the gasket I had to change the thickness of the end cap and the flange. This was because a bolt clamping a joint applies pressure in a shape that can be approximated as a truncated cone. The angle that this cone expands is called the pressure angle. They expand as they move through material. Both the bolt and nut have force cones originating at their effective radius, typically the radius of the fasteners mating surface. These cones should meet at the gasket to assure even spread of force across the gasket. Where the gasket intersects the force cones, they should connect on the gasket ensuring no low pressure areas on the gasket where leakage might occur. I increased the radius at the mating surface by increasing the thickness of material the truncated cone travels through. 
  
+
