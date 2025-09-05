@@ -13,13 +13,25 @@ The shop had a very productive start to the year. I finally orginized the Roboti
     <img 
         onclick="window.location.href=this.src;" 
         style="display: block; margin-left: auto; margin-right: auto; width: 45%;" 
-        src="/posts/first-post/IMG_972.webp"
+        src="/posts/first-post/IMG_9762.webp"
         alt="Unable to load image. Please refresh.">
     </img>
     <sub>Robotics Team Shelf.</sub>
     <br>
 </div>
 <br>
+<br>
+<div style="align-contents: center; text-align: center;">
+    <br>
+    <img 
+        onclick="window.location.href=this.src;" 
+        style="display: block; margin-left: auto; margin-right: auto; width: 45%;" 
+        src="/posts/first-post/OrgoBox.webp"
+        alt="Unable to load image. Please refresh.">
+    </img>
+    <sub>Cleaned Out Box.</sub>
+    <br>
+</div>
 <br>
 <div style="align-contents: center; text-align: center;">
     <br>
@@ -69,19 +81,21 @@ The ability to weld the tube without compromising its integrity drastically redu
 </div>
 <br>
 
+
+
+<br>
+I also designed the external frame for BOB ROV. I decided to use 4 tubes running parallel to the central electronics tube. These tubes serve as handles, modular mounting points, and cable channels. Each tube is conected to the each flange with a custom split collar design. To increase friction for the split collar, and to improve grip the tubes will be knurled.     
 <br>
 <div style="align-contents: center; text-align: center;">
     <br>
     <img 
         onclick="window.location.href=this.src;" 
         style="display: block; margin-left: auto; margin-right: auto; width: 45%;" 
-        src="/posts/first-post/OrgoBox.webp"
+        src="/posts/first-post/\BOBV18.webp"
         alt="Unable to load image. Please refresh.">
     </img>
-    <sub>Greasing the tube in hopes of eliminating leakage.</sub>
+    <sub>Current Cad Model.</sub>
     <br>
 </div>
-
 <br>
-
 
