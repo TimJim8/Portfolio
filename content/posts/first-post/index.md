@@ -21,7 +21,7 @@ I compiled this list of possible material choices.
     <img 
         onclick="window.location.href=this.src;" 
         style="display: block; margin-left: auto; margin-right: auto; width: 45%;" 
-        src="/posts/first-post/OrgoBox.webp"
+        src="/posts/first-post/TubeMatSel.webp"
         alt="Unable to load image. Please refresh.">
     </img>
     <sub>Greasing the tube in hopes of eliminating leakage.</sub>
@@ -43,3 +43,4 @@ I compiled this list of possible material choices.
 </div>
 
 <br>
+
