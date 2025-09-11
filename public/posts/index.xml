@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tims Prortfolio</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Tims Prortfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Sep 2025 13:03:04 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://example.org/posts/first-post/</link>
       <pubDate>Thu, 04 Sep 2025 13:03:04 -0400</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;h1 id=&#34;my-first-blog&#34;&gt;My first blog&lt;/h1&gt;&#xA;&lt;p&gt;Here is some regular text&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;align-contents: center; text-align: center;&#34;&gt;&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;    &lt;img &#xD;&#xA;        onclick=&#34;window.location.href=this.src;&#34; &#xD;&#xA;        style=&#34;display: block; margin-left: auto; margin-right: auto; width: 45%;&#34; &#xD;&#xA;        src=&#34;http://localhost:1313/posts/first-post/OrgoBox.webp&#34;&#xD;&#xA;        alt=&#34;Unable to load image. Please refresh.&#34;&gt;&#xD;&#xA;    &lt;/img&gt;&#xD;&#xA;    &lt;sub&gt;Greasing the tube in hopes of eliminating leakage.&lt;/sub&gt;&#xD;&#xA;    &lt;br&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;</description>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-blog&#34;&gt;My first blog&lt;/h1&gt;&#xA;&lt;p&gt;The shop had a very productive start to the year. I finally orginized the Robotics Team shelf with Ibrahim. In adition to this I also cleared out my box and made a new label to replace the old one. After a few days of orginizing I started working with Jonas to set up the Tormach mills. So far we have refilled the oil, restarted the system, and cleaned the vices of rust.  &lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

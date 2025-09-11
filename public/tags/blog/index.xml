@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tims Prortfolio</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Tims Prortfolio</description>
+    <title>Blog on Tims Prortfolio</title>
+    <link>https://example.org/tags/blog/</link>
+    <description>Recent content in Blog on Tims Prortfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Sep 2025 13:03:04 -0400</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog</title>
       <link>https://example.org/posts/first-post/</link>

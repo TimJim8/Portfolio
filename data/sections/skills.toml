@@ -1,0 +1,37 @@
+title = "Don't measure your skills in percentages"
+
+[[skill]]
+  title = "Underwater Robotics"
+  text  = "Hands on experience with hardware on underwater ROVs and Vertically Profiling Floats."
+  icon  = "bx-water"
+  link  = "https://sunkrobotics.com/"
+
+[[skill]]
+  title = "Carpentry"
+  text  = "Over a decade of carpentry experience. Furnature, structural design, and a 3 person canoe"
+  icon  = "bx-microchip"
+  link  = "#"
+
+[[skill]]
+  title = "CAD design"
+  text  = "Proficient in Fusion 360, Designing for carpentry, 3D printing, CNC and traditional machining"
+  icon  = "bx-code-alt"
+  link  = "/tags/software/"
+
+[[skill]]
+  title = "Renewable Water"
+  text  = "Research and development in solar solar powered water desalination, optimizing efficiency, and decreasing costs."
+  icon  = "bx-leaf"
+  link  = "#"
+
+[[skill]]
+  title = "CNC and Manual Machining"
+  text  = "Significant experience working in a machine shop. Both setting up and maintaing tools and machines, along will hands on project experience "
+  link  = "#"
+  icon  = "bx-bot"
+
+[[skill]]
+  title = "Cooking"
+  text  = "Passion for cooking and baking, using productive methods for relaxation "
+  icon  = "bx-radio" 
+  link  = "#"

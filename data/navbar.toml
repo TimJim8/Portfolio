@@ -1,0 +1,26 @@
+title = "mileshilliard"
+logo  = "img/miles-logo.png"
+
+[[menu]]
+  text        = "Home"
+  description = "Miles Hilliard"
+  link        = "/"
+  target      = "_self"
+
+[[menu]]
+  text        = "Robotics Posts"
+  description = "See robotics-only posts."
+  link        = "/tags/robotics-blog/"
+  target      = "_self"
+
+[[menu]]
+  text        = "Blog"
+  description = "See all my latest posts"
+  link        = "/posts"
+  target      = "_self"
+  
+[button]
+  enabled = true
+  text    = "Support me"
+  link    = "https://ko-fi.com/sntxdev"
+  target  = "_blank"

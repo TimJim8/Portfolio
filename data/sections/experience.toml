@@ -1,0 +1,28 @@
+# The list of companies
+[[company]]
+  name = "BOB ROV"
+  date = "2025 - 2026"
+  role = "Primary Mechanical Engineer"
+  text = [
+    "This year, Sunk Robotics decided to branch off from the MATE ROV competition to develop more advanced deep sea hardware.",
+    "We are entirely redesinging the ROV to be rated to 500 meter depths with a 3 times saftey factor. This entales having a steel chassis and high voltage tethered power transmision."]
+
+[[company]]
+  name = "MATE ROV"
+  date = "2024 - 2025"
+  role = "Lead Mechanical Engineer"
+  text = [
+    "Many lead members Sunk Robotics graduated in 2024. Due to gaps in the team, I had to step up to lead the mechanical team. We spent much of this year training new members and studying future improvements.",
+    "I spent much of the year performing reasearch on the hydrodynamic characteristics of JONA ROV. I tested several components to improve hydrodynamic efficiency. I also developed a sturdy modular pcb frame system for JONA's electronics tube.",
+    "Despite our regional competition performance qualifying us for the world championship, Sunk Robotics felt it would be too costly to attend and more benifical for the team to start development on a new project."
+  ]
+
+[[company]]
+  name = "Sunk Robotics"
+  date = "2023 - 2024"
+  role = "Mechanical Engineer"
+  text = [
+    "Sunk Robotics transferred and re-designed aspects from STEVE ROV to the more modern and robust JONA ROV. Thanks to our devoted team and funding from our sponsors, we were able to achieve first place in the regional competition, and ninth place overall in the MATE ROV World Championship while placing third in terms of robotics.",
+    "The custom PCB layouts required additional work and configuring to create a successful, near drop-in replacement, for JONA ROV. The creation of the new JENA Float began in 2023, with a finalized product scoring highest in the MATE ROV World Championship in 2024.",
+    "I created a new camera mounting system ensuring stable camera veiws. I also developed streamlined handles that can be installed and removed without hardware or tools. I upgraded JONA's modular manipulator system with a more streamlined claw. Sunk Robtics' hard work payed off this year resulting in a third place performance in the product demonstration section in the MATE ROV world Championship."  
+  ]
